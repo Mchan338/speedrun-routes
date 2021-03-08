@@ -272,6 +272,7 @@
   - Cubone: 22-26: 20-24 with 14/15 DV
   - First Slowpoke: 15-18; 17-20 with 13 DV
   - Second Slowpoke: 17-20
+  - Use Repel 1 step into Rock Tunnel
 - ### Super Nerd:
   - Cubone: BB
   - Slowpoke: TB
